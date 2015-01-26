@@ -1,0 +1,19 @@
+{
+  "name": "sub-schemas-mongoose",
+  "version": "0.0.1",
+  "description": "Prova de conceito de como compor schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schema",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "dependencies": {
+    "mongoose": "^3.8.22"
+  }
+}
